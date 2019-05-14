@@ -65,7 +65,8 @@ void loop() {
 }
 </pre>
 
-程序下载地址：[passiveBuzzer_test](https://eyun.baidu.com/s/3kVGDZUn)
+程序下载地址：[Speaker_test](https://github.com/YFROBOT-TM/YFRobot-Sensor-Module/blob/master/Speaker-%E5%96%87%E5%8F%AD%E6%A8%A1%E5%9D%97/Speaker_test/Speaker_test.ino) / 
+[Speaker_test-Yun.baidu](https://eyun.baidu.com/s/3kVGDZUn)
 
 程序运行结果：给两种不同频率，使其发出两种声音，模拟救护车声音。
 
@@ -74,13 +75,13 @@ void loop() {
 
 再给大家两个参考程序及DIY教程
 
-* 超级玛丽音乐：[Super_Mario](https://eyun.baidu.com/s/3jIIHRP8)
-* 唱歌：[singSong](https://eyun.baidu.com/s/3o8UKVH4)
+* 超级玛丽音乐：[Super_Mario](https://eyun.baidu.com/s/3jIIHRP8) / [Super_Mario-Yun.baidu](https://eyun.baidu.com/s/3jIIHRP8)
+* 唱歌：[singSong](https://eyun.baidu.com/s/3jIIHRP8) / [singSong-Yun.baidu](https://eyun.baidu.com/s/3o8UKVH4)
 * 唱歌DIY程序教程：[DIY Sing](http://www.yfrobot.com/thread-2269-1-1.html)
 
 
 ## 参考资料 ##
 
-* [LM4871数据手册](http://wiki.yfrobot.com/datasheet/LM4871%E6%95%B0%E6%8D%AE%E6%89%8B%E5%86%8C.pdf)
-* [LM4871_datasheet_EN](http://wiki.yfrobot.com/datasheet/LM4871_datasheet_EN.pdf)
-* [Speaker 模块原理图](http://wiki.yfrobot.com/Speaker/speaker_sch.pdf)
+*  / [LM4871数据手册-YFRobot](http://wiki.yfrobot.com/datasheet/LM4871%E6%95%B0%E6%8D%AE%E6%89%8B%E5%86%8C.pdf)
+*  / [LM4871_datasheet_EN-YFRobot](http://wiki.yfrobot.com/datasheet/LM4871_datasheet_EN.pdf)
+*  / [Speaker 模块原理图-YFRobot](http://wiki.yfrobot.com/Speaker/speaker_sch.pdf)
