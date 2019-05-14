@@ -82,6 +82,6 @@ void loop() {
 
 ## 参考资料 ##
 
-*  / [LM4871数据手册-YFRobot](http://wiki.yfrobot.com/datasheet/LM4871%E6%95%B0%E6%8D%AE%E6%89%8B%E5%86%8C.pdf)
-*  / [LM4871_datasheet_EN-YFRobot](http://wiki.yfrobot.com/datasheet/LM4871_datasheet_EN.pdf)
-*  / [Speaker 模块原理图-YFRobot](http://wiki.yfrobot.com/Speaker/speaker_sch.pdf)
+* [LM4871数据手册](https://github.com/YFROBOT-TM/YFRobot-Sensor-Module/blob/master/Speaker-%E5%96%87%E5%8F%AD%E6%A8%A1%E5%9D%97/ref/LM4871%E6%95%B0%E6%8D%AE%E6%89%8B%E5%86%8C.pdf) / [LM4871数据手册-YFRobot](http://wiki.yfrobot.com/datasheet/LM4871%E6%95%B0%E6%8D%AE%E6%89%8B%E5%86%8C.pdf)
+* [LM4871_datasheet_EN](https://github.com/YFROBOT-TM/YFRobot-Sensor-Module/blob/master/Speaker-%E5%96%87%E5%8F%AD%E6%A8%A1%E5%9D%97/ref/LM4871_datasheet_EN.pdf) / [LM4871_datasheet_EN-YFRobot](http://wiki.yfrobot.com/datasheet/LM4871_datasheet_EN.pdf)
+* [Speaker 模块原理图](https://github.com/YFROBOT-TM/YFRobot-Sensor-Module/blob/master/Speaker-%E5%96%87%E5%8F%AD%E6%A8%A1%E5%9D%97/ref/speaker_sch.pdf) / [Speaker 模块原理图-YFRobot](http://wiki.yfrobot.com/Speaker/speaker_sch.pdf)
